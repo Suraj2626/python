@@ -1,0 +1,5 @@
+program to check if an indian citizen can vote or not
+if age>=18:
+  print("you can vote")
+else:
+  print("you cannot vote")
